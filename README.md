@@ -1,2 +1,4 @@
 # hello_world
-i'm new
+This is Van
+Today is 14 December 2016
+
